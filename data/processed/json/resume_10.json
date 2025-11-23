@@ -1,0 +1,19 @@
+{
+  "name": "Michael Brooks",
+  "contacts": {
+    "emails": [
+      "michael.brooks@example.com"
+    ],
+    "phone_numbers": []
+  },
+  "sections": {
+    "full_text": "Michael Brooks\nEmail: michael.brooks@example.com | Halifax, NS",
+    "skills": "Electronic Health Records\nSQL, R, Python\nClinical Data Standards",
+    "experience": "Healthcare Data Specialist MedNova (2019Present)\n- Cleaned and analyzed EHR datasets for clinical reporting\n- Ensured HL7 compliance in datasets\n- Built Python automation scripts for data validation",
+    "education": "BSc Biomedical Informatics Dalhousie University"
+  },
+  "extracted_skills": [
+    "python"
+  ],
+  "full_text_snippet": "Michael Brooks \nEmail: michael.brooks@example.com | Halifax, NS\n\nSKILLS\nElectronic Health Records \nSQL, R, Python \nClinical Data Standards \n\nEXPERIENCE\nHealthcare Data Specialist MedNova (2019Present)\n- Cleaned and analyzed EHR datasets for clinical reporting \n- Ensured HL7 compliance in datasets \n- Built Python automation scripts for data validation \n\nEDUCATION\nBSc Biomedical Informatics Dalhousie University"
+}

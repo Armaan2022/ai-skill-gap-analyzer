@@ -1,0 +1,19 @@
+Priya Singh
+Email: priya.singh@example.com | Toronto, ON
+
+SUMMARY
+Detail-oriented Data Analyst with strong experience in dashboarding, SQL, and data storytelling.
+
+SKILLS
+Python, SQL, Tableau, PowerBI, Excel  
+Pandas, NumPy, Scikit-Learn  
+Statistics, A/B Testing  
+
+EXPERIENCE
+Data Analyst — HealthSync Inc. (2021–Present)
+- Designed Tableau dashboards for hospital operational metrics  
+- Automated data pipelines using Python + SQL  
+- Conducted A/B tests for patient portal engagement  
+
+EDUCATION
+BSc Statistics — University of Toronto (2017–2021)

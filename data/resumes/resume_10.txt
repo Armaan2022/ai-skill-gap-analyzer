@@ -1,0 +1,16 @@
+Michael Brooks  
+Email: michael.brooks@example.com | Halifax, NS
+
+SKILLS
+Electronic Health Records  
+SQL, R, Python  
+Clinical Data Standards  
+
+EXPERIENCE
+Healthcare Data Specialist — MedNova (2019–Present)
+- Cleaned and analyzed EHR datasets for clinical reporting  
+- Ensured HL7 compliance in datasets  
+- Built Python automation scripts for data validation  
+
+EDUCATION
+BSc Biomedical Informatics — Dalhousie University

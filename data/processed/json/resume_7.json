@@ -1,0 +1,17 @@
+{
+  "name": "Mark Thompson",
+  "contacts": {
+    "emails": [
+      "mark.thompson@example.com"
+    ],
+    "phone_numbers": []
+  },
+  "sections": {
+    "full_text": "Mark Thompson\nEmail: mark.thompson@example.com | Winnipeg, MB",
+    "skills": "Requirements Gathering\nProcess Mapping\nSQL, Excel\nJira, Confluence",
+    "experience": "Business Analyst MapleTech (2019Present)\n- Documented business requirements and user stories\n- Conducted workshops with stakeholders\n- Improved workflow efficiency by 20%",
+    "education": "BCom Business Technology University of Manitoba"
+  },
+  "extracted_skills": [],
+  "full_text_snippet": "Mark Thompson\nEmail: mark.thompson@example.com | Winnipeg, MB\n\nSKILLS\nRequirements Gathering \nProcess Mapping \nSQL, Excel \nJira, Confluence \n\nEXPERIENCE\nBusiness Analyst MapleTech (2019Present)\n- Documented business requirements and user stories \n- Conducted workshops with stakeholders \n- Improved workflow efficiency by 20% \n\nEDUCATION\nBCom Business Technology University of Manitoba"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Data Analyst",
+  "sections": {
+    "full_text": "Data Analyst\nHealthSync Inc. Toronto, ON\n\nResponsibilities:\n- Prepare and analyze healthcare operational datasets\n- Build dashboards using Tableau and PowerBI\n- Perform statistical analysis and A/B testing\n- Work with SQL to extract and clean data",
+    "skills": "- Python, SQL, Excel\n- Tableau or PowerBI\n- Pandas, NumPy\n\nPreferred:",
+    "experience": "- Knowledge of ETL processes"
+  },
+  "required_skills": [
+    "python"
+  ],
+  "full_text_snippet": "Data Analyst \nHealthSync Inc. Toronto, ON\n\nResponsibilities:\n- Prepare and analyze healthcare operational datasets\n- Build dashboards using Tableau and PowerBI\n- Perform statistical analysis and A/B testing\n- Work with SQL to extract and clean data\n\nRequired Skills:\n- Python, SQL, Excel\n- Tableau or PowerBI\n- Pandas, NumPy\n\nPreferred:\n- Experience in healthcare analytics\n- Knowledge of ETL processes"
+}

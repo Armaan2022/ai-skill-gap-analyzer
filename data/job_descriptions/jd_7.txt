@@ -1,0 +1,16 @@
+Business Analyst  
+MapleTech — Winnipeg, MB
+
+Responsibilities:
+- Gather and document requirements from stakeholders
+- Create process maps and workflow diagrams
+- Facilitate Scrum ceremonies
+- Support QA with test case documentation
+
+Required Skills:
+- Requirements gathering, user story writing
+- SQL and Excel
+- Jira, Confluence
+
+Preferred:
+- Knowledge of Agile methodologies

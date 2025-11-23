@@ -1,0 +1,19 @@
+Kevin Zhao
+Email: kevin.zhao@example.com | Vancouver, BC
+
+SUMMARY
+Machine Learning Engineer specializing in NLP and recommendation systems.
+
+SKILLS
+Python, PyTorch, TensorFlow, ONNX  
+Transformers, HuggingFace  
+Feature Engineering, Model Deployment  
+
+EXPERIENCE
+ML Engineer — BrightAI Labs (2020–Present)
+- Built sentiment analysis models for customer support automation  
+- Converted LLM models to ONNX for 4× inference speed improvement  
+- Developed recommendation engine using implicit feedback data  
+
+EDUCATION
+MASc Machine Learning — UBC (2018–2020)

@@ -1,0 +1,16 @@
+Cloud Engineer  
+SkyOps — Ottawa, ON
+
+Responsibilities:
+- Build and manage AWS cloud infrastructure
+- Develop Terraform modules for IaC automation
+- Implement CI/CD pipelines using GitHub Actions
+- Troubleshoot networking and deployment issues
+
+Required Skills:
+- AWS (EC2, S3, RDS, ECS)
+- Terraform, Docker, Kubernetes
+- Bash or Python scripting
+
+Preferred:
+- Experience with serverless (Lambda)

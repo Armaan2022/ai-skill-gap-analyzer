@@ -1,0 +1,11 @@
+{
+  "title": "Cybersecurity Analyst",
+  "sections": {
+    "full_text": "Cybersecurity Analyst\nShieldSecure Edmonton, AB\n\nResponsibilities:\n- Monitor SIEM dashboards (Splunk, QRadar)\n- Investigate alerts and escalate incidents\n- Conduct vulnerability assessments and penetration testing\n- Prepare security audit reports",
+    "skills": "- Network security fundamentals\n- SIEM (Splunk, QRadar)\n- Python or Bash\n- Linux administration\n\nPreferred:\n- CompTIA Security+ or similar certification"
+  },
+  "required_skills": [
+    "python"
+  ],
+  "full_text_snippet": "Cybersecurity Analyst \nShieldSecure Edmonton, AB\n\nResponsibilities:\n- Monitor SIEM dashboards (Splunk, QRadar)\n- Investigate alerts and escalate incidents\n- Conduct vulnerability assessments and penetration testing\n- Prepare security audit reports\n\nRequired Skills:\n- Network security fundamentals\n- SIEM (Splunk, QRadar)\n- Python or Bash\n- Linux administration\n\nPreferred:\n- CompTIA Security+ or similar certification"
+}

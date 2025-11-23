@@ -1,0 +1,16 @@
+Mechanical Engineer  
+AeroNova — Edmonton, AB
+
+Responsibilities:
+- Design mechanical components for aerospace projects
+- Run FEA simulations (ANSYS, SolidWorks Simulation)
+- Perform tolerance analysis and testing
+- Work with manufacturing teams for fabrication
+
+Required Skills:
+- SolidWorks, CAD
+- FEA, stress analysis
+- MATLAB or Python
+
+Preferred:
+- Aerospace industry experience

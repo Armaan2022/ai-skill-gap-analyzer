@@ -1,0 +1,17 @@
+Data Analyst  
+HealthSync Inc. — Toronto, ON
+
+Responsibilities:
+- Prepare and analyze healthcare operational datasets
+- Build dashboards using Tableau and PowerBI
+- Perform statistical analysis and A/B testing
+- Work with SQL to extract and clean data
+
+Required Skills:
+- Python, SQL, Excel
+- Tableau or PowerBI
+- Pandas, NumPy
+
+Preferred:
+- Experience in healthcare analytics
+- Knowledge of ETL processes

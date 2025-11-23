@@ -1,0 +1,21 @@
+{
+  "title": "Full-Stack Software Developer",
+  "sections": {
+    "full_text": "Full-Stack Software Developer\nNexaTech Solutions Calgary, AB\n\nResponsibilities:\n- Build and maintain REST APIs using Node.js, Express, and PostgreSQL\n- Develop responsive React front-end components\n- Write automated tests and participate in code reviews\n- Collaborate with designers and product managers",
+    "skills": "- JavaScript, TypeScript, React\n- Node.js, Express, SQL\n- Git, Docker, CI/CD\n\nPreferred:",
+    "experience": "- Familiarity with microservices architecture"
+  },
+  "required_skills": [
+    "docker",
+    "react",
+    "postgresql",
+    "javascript",
+    "express",
+    "typescript",
+    "gcp",
+    "aws",
+    "ci/cd",
+    "node.js"
+  ],
+  "full_text_snippet": "Full-Stack Software Developer \nNexaTech Solutions Calgary, AB\n\nResponsibilities:\n- Build and maintain REST APIs using Node.js, Express, and PostgreSQL\n- Develop responsive React front-end components\n- Write automated tests and participate in code reviews\n- Collaborate with designers and product managers\n\nRequired Skills:\n- JavaScript, TypeScript, React\n- Node.js, Express, SQL\n- Git, Docker, CI/CD\n\nPreferred:\n- Experience with AWS or GCP\n- Familiarity with microservices architecture"
+}

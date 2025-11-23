@@ -1,0 +1,17 @@
+{
+  "name": "Emily Johnson",
+  "contacts": {
+    "emails": [
+      "emily.johnson@example.com"
+    ],
+    "phone_numbers": []
+  },
+  "sections": {
+    "full_text": "Emily Johnson\nEmail: emily.johnson@example.com | Victoria, BC",
+    "skills": "Figma, Adobe XD, Sketch\nUser Research, Wireframing, Prototyping\nResponsive Design",
+    "experience": "UX Designer SoftVision (2021Present)\n- Designed mobile-first UI for a banking app used by 200k+ users\n- Conducted usability tests and synthesized insights\n- Created component libraries for design consistency",
+    "education": "BA Design Emily Carr University"
+  },
+  "extracted_skills": [],
+  "full_text_snippet": "Emily Johnson\nEmail: emily.johnson@example.com | Victoria, BC\n\nSKILLS\nFigma, Adobe XD, Sketch \nUser Research, Wireframing, Prototyping \nResponsive Design \n\nEXPERIENCE\nUX Designer SoftVision (2021Present)\n- Designed mobile-first UI for a banking app used by 200k+ users \n- Conducted usability tests and synthesized insights \n- Created component libraries for design consistency \n\nEDUCATION\nBA Design Emily Carr University"
+}

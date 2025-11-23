@@ -1,0 +1,20 @@
+John Carter
+Email: john.carter@example.com | Phone: 587-901-2301 | Calgary, AB
+
+SUMMARY
+Software Developer with 3+ years of experience specializing in full-stack development, cloud systems, and scalable API design.
+
+SKILLS
+Languages: Python, JavaScript, TypeScript, SQL  
+Frameworks: React, Node.js, Express, Django  
+Cloud: AWS, Docker, Kubernetes  
+Tools: Git, CI/CD, Postman  
+
+EXPERIENCE
+Software Developer — NexaTech Solutions (2022–Present)
+- Built REST APIs using Express and PostgreSQL serving 50k+ monthly users  
+- Developed internal microservices using Docker + AWS ECS  
+- Improved query performance by 30% through indexing and optimization  
+
+EDUCATION
+BSc Computer Science — University of Calgary (2018–2022)

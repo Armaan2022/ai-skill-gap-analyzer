@@ -1,0 +1,16 @@
+{
+  "title": "Machine Learning Engineer NLP",
+  "sections": {
+    "full_text": "Machine Learning Engineer NLP\nBrightAI Labs Vancouver, BC\n\nResponsibilities:\n- Build NLP models for text classification and entity extraction\n- Work with HuggingFace Transformers and PyTorch\n- Deploy models into production using ONNX Runtime\n- Evaluate and optimize model performance",
+    "skills": "- Python, PyTorch, TensorFlow\n- Transformers, NLP pipelines\n- Docker, Git\n\nPreferred:"
+  },
+  "required_skills": [
+    "docker",
+    "python",
+    "tensorflow",
+    "nlp",
+    "machine learning",
+    "pytorch"
+  ],
+  "full_text_snippet": "Machine Learning Engineer NLP \nBrightAI Labs Vancouver, BC\n\nResponsibilities:\n- Build NLP models for text classification and entity extraction\n- Work with HuggingFace Transformers and PyTorch\n- Deploy models into production using ONNX Runtime\n- Evaluate and optimize model performance\n\nRequired Skills:\n- Python, PyTorch, TensorFlow\n- Transformers, NLP pipelines\n- Docker, Git\n\nPreferred:\n- ONNX optimization experience\n- Experience with LLM fine-tuning"
+}

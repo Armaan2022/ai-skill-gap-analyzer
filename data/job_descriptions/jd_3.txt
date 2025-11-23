@@ -1,0 +1,17 @@
+Machine Learning Engineer — NLP  
+BrightAI Labs — Vancouver, BC
+
+Responsibilities:
+- Build NLP models for text classification and entity extraction
+- Work with HuggingFace Transformers and PyTorch
+- Deploy models into production using ONNX Runtime
+- Evaluate and optimize model performance
+
+Required Skills:
+- Python, PyTorch, TensorFlow
+- Transformers, NLP pipelines
+- Docker, Git
+
+Preferred:
+- ONNX optimization experience
+- Experience with LLM fine-tuning

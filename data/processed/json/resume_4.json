@@ -1,0 +1,22 @@
+{
+  "name": "Aisha Malik",
+  "contacts": {
+    "emails": [
+      "aisha.malik@example.com"
+    ],
+    "phone_numbers": [
+      "20162020"
+    ]
+  },
+  "sections": {
+    "full_text": "Aisha Malik\nEmail: aisha.malik@example.com | Edmonton, AB",
+    "summary": "Cybersecurity analyst specializing in threat detection, SIEM tools, and risk analysis.",
+    "skills": "Network Security, Firewalls, SIEM, Splunk\nPython, Bash, Linux\nPenetration Testing, Vulnerability Assessment",
+    "experience": "Security Analyst ShieldSecure (2021Present)\n- Monitored SIEM alerts and triaged incidents\n- Conducted vulnerability scans using Nessus\n- Created automated scripts to analyze suspicious logs",
+    "education": "BSc Cybersecurity NAIT (20162020)"
+  },
+  "extracted_skills": [
+    "python"
+  ],
+  "full_text_snippet": "Aisha Malik\nEmail: aisha.malik@example.com | Edmonton, AB\n\nSUMMARY\nCybersecurity analyst specializing in threat detection, SIEM tools, and risk analysis.\n\nSKILLS\nNetwork Security, Firewalls, SIEM, Splunk \nPython, Bash, Linux \nPenetration Testing, Vulnerability Assessment \n\nEXPERIENCE\nSecurity Analyst ShieldSecure (2021Present)\n- Monitored SIEM alerts and triaged incidents \n- Conducted vulnerability scans using Nessus \n- Created automated scripts to analyze suspicious logs \n\nEDUCATION\nBSc Cybersecurity NAIT (20162020)"
+}

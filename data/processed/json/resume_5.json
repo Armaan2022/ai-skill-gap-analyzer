@@ -1,0 +1,28 @@
+{
+  "name": "Ahmed Khan",
+  "contacts": {
+    "emails": [
+      "ahmed.khan@example.com"
+    ],
+    "phone_numbers": [
+      "20162020"
+    ]
+  },
+  "sections": {
+    "full_text": "Ahmed Khan\nEmail: ahmed.khan@example.com | Ottawa, ON",
+    "summary": "Cloud Engineer with hands-on AWS experience and IaC automation.",
+    "skills": "AWS, Terraform, Docker, Kubernetes\nPython, Bash\nCI/CD, GitHub Actions",
+    "experience": "Cloud Engineer SkyOps (2020Present)\n- Managed AWS infrastructure (EC2, S3, ECS, RDS)\n- Developed reusable Terraform modules\n- Implemented CI/CD pipelines reducing deployment time by 60%",
+    "education": "BSc Computer Engineering Carleton University (20162020)"
+  },
+  "extracted_skills": [
+    "docker",
+    "python",
+    "github actions",
+    "aws",
+    "kubernetes",
+    "ci/cd",
+    "terraform"
+  ],
+  "full_text_snippet": "Ahmed Khan\nEmail: ahmed.khan@example.com | Ottawa, ON\n\nSUMMARY\nCloud Engineer with hands-on AWS experience and IaC automation.\n\nSKILLS\nAWS, Terraform, Docker, Kubernetes \nPython, Bash \nCI/CD, GitHub Actions \n\nEXPERIENCE\nCloud Engineer SkyOps (2020Present)\n- Managed AWS infrastructure (EC2, S3, ECS, RDS) \n- Developed reusable Terraform modules \n- Implemented CI/CD pipelines reducing deployment time by 60% \n\nEDUCATION\nBSc Computer Engineering Carleton University (20162020)"
+}

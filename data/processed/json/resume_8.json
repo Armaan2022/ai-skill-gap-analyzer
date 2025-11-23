@@ -1,0 +1,17 @@
+{
+  "name": "Sarah Lee",
+  "contacts": {
+    "emails": [
+      "sarah.lee@example.com"
+    ],
+    "phone_numbers": []
+  },
+  "sections": {
+    "full_text": "Sarah Lee\nEmail: sarah.lee@example.com | Edmonton, AB",
+    "skills": "CAD (SolidWorks), FEA, MATLAB\nProduct Design, Failure Analysis\nManufacturing Processes",
+    "experience": "Mechanical Engineer AeroNova (2020Present)\n- Designed mechanical parts for aerospace components\n- Performed FEA simulations for stress testing\n- Reduced manufacturing cost by 10%",
+    "education": "BSc Mechanical Engineering University of Alberta"
+  },
+  "extracted_skills": [],
+  "full_text_snippet": "Sarah Lee\nEmail: sarah.lee@example.com | Edmonton, AB\n\nSKILLS\nCAD (SolidWorks), FEA, MATLAB \nProduct Design, Failure Analysis \nManufacturing Processes \n\nEXPERIENCE\nMechanical Engineer AeroNova (2020Present)\n- Designed mechanical parts for aerospace components \n- Performed FEA simulations for stress testing \n- Reduced manufacturing cost by 10% \n\nEDUCATION\nBSc Mechanical Engineering University of Alberta"
+}

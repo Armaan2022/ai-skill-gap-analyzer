@@ -1,0 +1,17 @@
+{
+  "name": "Anna Wallace",
+  "contacts": {
+    "emails": [
+      "anna.wallace@example.com"
+    ],
+    "phone_numbers": []
+  },
+  "sections": {
+    "full_text": "Anna Wallace\nEmail: anna.wallace@example.com | Montreal, QC",
+    "skills": "SEO, Content Marketing\nGoogle Analytics, Meta Ads\nCopywriting, Branding",
+    "experience": "Marketing Specialist WaveConnect (2020Present)\n- Managed SEO strategy increasing organic traffic by 40%\n- Ran PPC campaigns reducing CPA by 15%\n- Produced high-quality marketing copy for product launches",
+    "education": "BA Marketing Concordia University"
+  },
+  "extracted_skills": [],
+  "full_text_snippet": "Anna Wallace\nEmail: anna.wallace@example.com | Montreal, QC\n\nSKILLS\nSEO, Content Marketing \nGoogle Analytics, Meta Ads \nCopywriting, Branding \n\nEXPERIENCE\nMarketing Specialist WaveConnect (2020Present)\n- Managed SEO strategy increasing organic traffic by 40% \n- Ran PPC campaigns reducing CPA by 15% \n- Produced high-quality marketing copy for product launches \n\nEDUCATION\nBA Marketing Concordia University"
+}

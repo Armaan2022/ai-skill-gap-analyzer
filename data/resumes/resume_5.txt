@@ -1,0 +1,19 @@
+Ahmed Khan
+Email: ahmed.khan@example.com | Ottawa, ON
+
+SUMMARY
+Cloud Engineer with hands-on AWS experience and IaC automation.
+
+SKILLS
+AWS, Terraform, Docker, Kubernetes  
+Python, Bash  
+CI/CD, GitHub Actions  
+
+EXPERIENCE
+Cloud Engineer — SkyOps (2020–Present)
+- Managed AWS infrastructure (EC2, S3, ECS, RDS)  
+- Developed reusable Terraform modules  
+- Implemented CI/CD pipelines reducing deployment time by 60%  
+
+EDUCATION
+BSc Computer Engineering — Carleton University (2016–2020)

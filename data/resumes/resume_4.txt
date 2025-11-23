@@ -1,0 +1,19 @@
+Aisha Malik
+Email: aisha.malik@example.com | Edmonton, AB
+
+SUMMARY
+Cybersecurity analyst specializing in threat detection, SIEM tools, and risk analysis.
+
+SKILLS
+Network Security, Firewalls, SIEM, Splunk  
+Python, Bash, Linux  
+Penetration Testing, Vulnerability Assessment  
+
+EXPERIENCE
+Security Analyst — ShieldSecure (2021–Present)
+- Monitored SIEM alerts and triaged incidents  
+- Conducted vulnerability scans using Nessus  
+- Created automated scripts to analyze suspicious logs  
+
+EDUCATION
+BSc Cybersecurity — NAIT (2016–2020)

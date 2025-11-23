@@ -1,0 +1,17 @@
+Full-Stack Software Developer  
+NexaTech Solutions — Calgary, AB
+
+Responsibilities:
+- Build and maintain REST APIs using Node.js, Express, and PostgreSQL
+- Develop responsive React front-end components
+- Write automated tests and participate in code reviews
+- Collaborate with designers and product managers
+
+Required Skills:
+- JavaScript, TypeScript, React
+- Node.js, Express, SQL
+- Git, Docker, CI/CD
+
+Preferred:
+- Experience with AWS or GCP
+- Familiarity with microservices architecture

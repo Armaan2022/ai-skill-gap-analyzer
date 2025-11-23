@@ -1,0 +1,28 @@
+{
+  "programming_languages": [
+    "python", "java", "c++", "javascript", "typescript", "go", "rust"
+  ],
+  "machine_learning": [
+    "machine learning", "deep learning", "neural networks",
+    "pytorch", "tensorflow", "scikit-learn",
+    "data preprocessing", "nlp", "computer vision"
+  ],
+  "cloud": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "cloud computing"
+  ],
+  "databases": [
+    "mysql", "postgresql", "mongodb", "sqlite", "redis"
+  ],
+  "devops": [
+    "ci/cd", "jenkins", "github actions", "terraform"
+  ],
+  "frontend": [
+    "react", "html", "css", "typescript", "bootstrap"
+  ],
+  "backend": [
+    "node.js", "express", "fastapi", "flask", "django", "rest api"
+  ],
+  "soft_skills": [
+    "communication", "teamwork", "leadership", "problem solving"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Priya Singh",
+  "contacts": {
+    "emails": [
+      "priya.singh@example.com"
+    ],
+    "phone_numbers": [
+      "20172021"
+    ]
+  },
+  "sections": {
+    "full_text": "Priya Singh\nEmail: priya.singh@example.com | Toronto, ON",
+    "summary": "Detail-oriented Data Analyst with strong experience in dashboarding, SQL, and data storytelling.",
+    "skills": "Python, SQL, Tableau, PowerBI, Excel\nPandas, NumPy, Scikit-Learn\nStatistics, A/B Testing",
+    "experience": "Data Analyst HealthSync Inc. (2021Present)\n- Designed Tableau dashboards for hospital operational metrics\n- Automated data pipelines using Python + SQL\n- Conducted A/B tests for patient portal engagement",
+    "education": "BSc Statistics University of Toronto (20172021)"
+  },
+  "extracted_skills": [
+    "python",
+    "scikit-learn"
+  ],
+  "full_text_snippet": "Priya Singh\nEmail: priya.singh@example.com | Toronto, ON\n\nSUMMARY\nDetail-oriented Data Analyst with strong experience in dashboarding, SQL, and data storytelling.\n\nSKILLS\nPython, SQL, Tableau, PowerBI, Excel \nPandas, NumPy, Scikit-Learn \nStatistics, A/B Testing \n\nEXPERIENCE\nData Analyst HealthSync Inc. (2021Present)\n- Designed Tableau dashboards for hospital operational metrics \n- Automated data pipelines using Python + SQL \n- Conducted A/B tests for patient portal engagement \n\nEDUCATION\nBSc Statistics University of Toronto (20172021)"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Cloud Engineer",
+  "sections": {
+    "full_text": "Cloud Engineer\nSkyOps Ottawa, ON\n\nResponsibilities:\n- Build and manage AWS cloud infrastructure\n- Develop Terraform modules for IaC automation\n- Implement CI/CD pipelines using GitHub Actions\n- Troubleshoot networking and deployment issues",
+    "skills": "- AWS (EC2, S3, RDS, ECS)\n- Terraform, Docker, Kubernetes\n- Bash or Python scripting\n\nPreferred:"
+  },
+  "required_skills": [
+    "docker",
+    "python",
+    "github actions",
+    "aws",
+    "kubernetes",
+    "ci/cd",
+    "terraform"
+  ],
+  "full_text_snippet": "Cloud Engineer \nSkyOps Ottawa, ON\n\nResponsibilities:\n- Build and manage AWS cloud infrastructure\n- Develop Terraform modules for IaC automation\n- Implement CI/CD pipelines using GitHub Actions\n- Troubleshoot networking and deployment issues\n\nRequired Skills:\n- AWS (EC2, S3, RDS, ECS)\n- Terraform, Docker, Kubernetes\n- Bash or Python scripting\n\nPreferred:\n- Experience with serverless (Lambda)"
+}

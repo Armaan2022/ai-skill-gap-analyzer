@@ -1,0 +1,17 @@
+Cybersecurity Analyst  
+ShieldSecure — Edmonton, AB
+
+Responsibilities:
+- Monitor SIEM dashboards (Splunk, QRadar)
+- Investigate alerts and escalate incidents
+- Conduct vulnerability assessments and penetration testing
+- Prepare security audit reports
+
+Required Skills:
+- Network security fundamentals
+- SIEM (Splunk, QRadar)
+- Python or Bash
+- Linux administration
+
+Preferred:
+- CompTIA Security+ or similar certification

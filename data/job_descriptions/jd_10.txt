@@ -1,0 +1,16 @@
+Healthcare Data Specialist  
+MedNova — Halifax, NS
+
+Responsibilities:
+- Analyze and validate EHR datasets
+- Ensure HL7 and clinical reporting compliance
+- Build automated data cleansing scripts
+- Collaborate with clinical research teams
+
+Required Skills:
+- SQL, Python, R
+- Healthcare standards (HL7, ICD)
+- Data validation techniques
+
+Preferred:
+- Experience with EMR/EHR systems

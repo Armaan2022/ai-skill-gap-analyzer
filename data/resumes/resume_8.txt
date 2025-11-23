@@ -1,0 +1,16 @@
+Sarah Lee
+Email: sarah.lee@example.com | Edmonton, AB
+
+SKILLS
+CAD (SolidWorks), FEA, MATLAB  
+Product Design, Failure Analysis  
+Manufacturing Processes  
+
+EXPERIENCE
+Mechanical Engineer — AeroNova (2020–Present)
+- Designed mechanical parts for aerospace components  
+- Performed FEA simulations for stress testing  
+- Reduced manufacturing cost by 10%  
+
+EDUCATION
+BSc Mechanical Engineering — University of Alberta

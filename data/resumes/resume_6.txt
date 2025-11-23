@@ -1,0 +1,16 @@
+Emily Johnson
+Email: emily.johnson@example.com | Victoria, BC
+
+SKILLS
+Figma, Adobe XD, Sketch  
+User Research, Wireframing, Prototyping  
+Responsive Design  
+
+EXPERIENCE
+UX Designer — SoftVision (2021–Present)
+- Designed mobile-first UI for a banking app used by 200k+ users  
+- Conducted usability tests and synthesized insights  
+- Created component libraries for design consistency  
+
+EDUCATION
+BA Design — Emily Carr University

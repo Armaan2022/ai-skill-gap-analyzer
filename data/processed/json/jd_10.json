@@ -1,0 +1,11 @@
+{
+  "title": "Healthcare Data Specialist",
+  "sections": {
+    "full_text": "Healthcare Data Specialist\nMedNova Halifax, NS\n\nResponsibilities:\n- Analyze and validate EHR datasets\n- Ensure HL7 and clinical reporting compliance\n- Build automated data cleansing scripts\n- Collaborate with clinical research teams",
+    "skills": "- SQL, Python, R\n- Healthcare standards (HL7, ICD)\n- Data validation techniques\n\nPreferred:"
+  },
+  "required_skills": [
+    "python"
+  ],
+  "full_text_snippet": "Healthcare Data Specialist \nMedNova Halifax, NS\n\nResponsibilities:\n- Analyze and validate EHR datasets\n- Ensure HL7 and clinical reporting compliance\n- Build automated data cleansing scripts\n- Collaborate with clinical research teams\n\nRequired Skills:\n- SQL, Python, R\n- Healthcare standards (HL7, ICD)\n- Data validation techniques\n\nPreferred:\n- Experience with EMR/EHR systems"
+}

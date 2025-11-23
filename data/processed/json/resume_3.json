@@ -1,0 +1,26 @@
+{
+  "name": "Kevin Zhao",
+  "contacts": {
+    "emails": [
+      "kevin.zhao@example.com"
+    ],
+    "phone_numbers": [
+      "20182020"
+    ]
+  },
+  "sections": {
+    "full_text": "Kevin Zhao\nEmail: kevin.zhao@example.com | Vancouver, BC",
+    "summary": "Machine Learning Engineer specializing in NLP and recommendation systems.",
+    "skills": "Python, PyTorch, TensorFlow, ONNX\nTransformers, HuggingFace\nFeature Engineering, Model Deployment",
+    "experience": "ML Engineer BrightAI Labs (2020Present)\n- Built sentiment analysis models for customer support automation\n- Converted LLM models to ONNX for 4 inference speed improvement\n- Developed recommendation engine using implicit feedback data",
+    "education": "MASc Machine Learning UBC (20182020)"
+  },
+  "extracted_skills": [
+    "python",
+    "tensorflow",
+    "nlp",
+    "machine learning",
+    "pytorch"
+  ],
+  "full_text_snippet": "Kevin Zhao\nEmail: kevin.zhao@example.com | Vancouver, BC\n\nSUMMARY\nMachine Learning Engineer specializing in NLP and recommendation systems.\n\nSKILLS\nPython, PyTorch, TensorFlow, ONNX \nTransformers, HuggingFace \nFeature Engineering, Model Deployment \n\nEXPERIENCE\nML Engineer BrightAI Labs (2020Present)\n- Built sentiment analysis models for customer support automation \n- Converted LLM models to ONNX for 4 inference speed improvement \n- Developed recommendation engine using implicit feedback data \n\nEDUCATION\nMASc Machine Learning UBC (20182020)"
+}
