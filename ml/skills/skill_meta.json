@@ -1,0 +1,62 @@
+{
+  "Python": {
+    "category": "Backend",
+    "weight": 1.3,
+    "aliases": ["py", "python3", "python programming"],
+    "related": ["API Development", "Backend Development"]
+  },
+  "SQL": {
+    "category": "Database",
+    "weight": 1.2,
+    "aliases": ["postgres", "mysql", "sql queries", "sqlite"],
+    "related": ["Data Modeling"]
+  },
+  "API Development": {
+    "category": "Backend",
+    "weight": 1.1,
+    "aliases": ["rest api", "api design", "fastapi", "flask"],
+    "related": ["Backend Development"]
+  },
+  "Backend Development": {
+    "category": "Backend",
+    "weight": 1.3,
+    "aliases": ["backend engineer", "server-side", "backend systems"],
+    "related": ["API Development", "Python"]
+  },
+  "AWS": {
+    "category": "Cloud",
+    "weight": 1.2,
+    "aliases": ["amazon web services", "ec2", "s3", "lambda"],
+    "related": ["Cloud Architecture"]
+  },
+  "Cloud Architecture": {
+    "category": "Cloud",
+    "weight": 1.2,
+    "aliases": ["cloud design", "cloud deployment"],
+    "related": ["AWS", "Docker"]
+  },
+  "Docker": {
+    "category": "DevOps",
+    "weight": 1.0,
+    "aliases": ["containers", "dockerfile", "docker-compose"],
+    "related": ["Cloud Architecture"]
+  },
+  "Machine Learning": {
+    "category": "ML",
+    "weight": 1.4,
+    "aliases": ["ml", "model training"],
+    "related": ["Deep Learning"]
+  },
+  "Deep Learning": {
+    "category": "ML",
+    "weight": 1.3,
+    "aliases": ["neural networks", "tensorflow", "pytorch"],
+    "related": ["Machine Learning"]
+  },
+  "Reinforcement Learning": {
+    "category": "ML",
+    "weight": 1.2,
+    "aliases": ["rl"],
+    "related": ["Machine Learning"]
+  }
+}
