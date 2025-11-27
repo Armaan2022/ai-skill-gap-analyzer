@@ -2,6 +2,7 @@ from __future__ import annotations
 import json
 import os
 from pathlib import Path
+from pydoc import text
 from typing import List, Tuple, Dict, Any, Optional
 
 import numpy as np
@@ -139,6 +140,15 @@ class SkillExtractor:
         if not text:
             return []
         
+        # NEW: simple shortcut for comma-separated or short lists
+        import re
+        simple_separators = r",|;|/|\||\sand\s"
+        if len(text.split()) <= 15:  
+            # Usually means the input is a short skill list like: "Python, React, AWS"
+            parts = [p.strip().lower() for p in re.split(simple_separators, text) if p.strip()]
+            if len(parts) > 1:  # only use this if it actually splits
+                return parts
+        
         doc = self.nlp(text)
         candidates = []
 
@@ -155,7 +165,6 @@ class SkillExtractor:
                 candidates.append(phrase)
         
         # 3) Simple regex-based patterns: "experience with X", "proficient in X", "familiar with X"
-        import re
 
         patterns = [
             r"(?:experience with|experienced in|proficient in|familiar with|skilled in)\s+([A-Za-z0-9\-\+\.#\s/]+)",

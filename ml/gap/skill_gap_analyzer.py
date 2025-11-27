@@ -170,6 +170,15 @@ class SkillGapAnalyzer:
                 best_sim = float(jrow[idx])
                 best_match = resume_skills[idx]
 
+                # --- NEW SAFETY RULE ---
+                job_cat, _ = self._skill_category_and_weight(job_skill)
+                res_cat, _ = self._skill_category_and_weight(best_match)
+
+                # if the categories do NOT match, override similarity
+                if job_cat != res_cat:
+                    best_sim = 0.0
+                    best_match = None
+
             # Determine status
             if best_sim >= self.match_threshold:
                 status = "matched"
