@@ -65,3 +65,7 @@ backend/app.db
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
 CLAUDE.md
+
+# Local data and docs
+data/
+docs/
