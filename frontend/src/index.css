@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&display=swap');
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:         #f2ede6;
+  --surface:    #faf7f3;
+  --surface-2:  #ede9e1;
+  --border:     #d9d3c8;
+  --border-dark:#b5afa5;
+  --text:       #1a1a1a;
+  --text-muted: #6b6560;
+  --text-light: #a09890;
+  --accent:     #1a1a1a;
+  --track:      #d9d3c8;
+
+  --green:  #16a34a;
+  --red:    #dc2626;
+  --amber:  #b45309;
+  --blue:   #1d4ed8;
+
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+body { min-height: 100vh; }
