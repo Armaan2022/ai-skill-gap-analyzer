@@ -1,5 +1,7 @@
 # AI Skill Gap Analyzer
 
+![Tests](https://github.com/Armaan2022/ai-skill-gap-analyzer/actions/workflows/test.yml/badge.svg)
+
 An end-to-end NLP application that compares a resume against a job description, extracts skills from both, and produces a weighted match score with a detailed breakdown of matched, missing, and partially-matched skills.
 
 ---
