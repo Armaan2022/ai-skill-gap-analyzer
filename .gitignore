@@ -64,3 +64,4 @@ backend/app.db
 # ── Jupyter ───────────────────────────────────────────────────────────────────
 .ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/
+CLAUDE.md
