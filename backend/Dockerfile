@@ -14,7 +14,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy source
 COPY . .
 
-# Pre-download sentence-transformer model so first request isn't slow
+# Pre-download models so first request isn't slow
+RUN python -m spacy download en_core_web_sm
 RUN python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('BAAI/bge-small-en-v1.5')"
 
 EXPOSE 8000

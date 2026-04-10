@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: ai-skill-gap-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: .
+    plan: free
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:///./skillgap.db
+      - key: CORS_ORIGINS
+        value: https://ai-skill-gap-analyzer.vercel.app

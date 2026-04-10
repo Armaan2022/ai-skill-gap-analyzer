@@ -1,6 +1,8 @@
 import type { SkillGapResult, SavedAnalysis } from './types';
 
-const BASE = '/api/v1';
+// In production (Vercel), set VITE_API_URL to your Render backend URL.
+// Locally, vite.config.ts proxies /api -> localhost:8000 so no prefix needed.
+const BASE = `${import.meta.env.VITE_API_URL ?? ''}/api/v1`;
 
 async function handleResponse<T>(res: Response): Promise<T> {
   if (!res.ok) {
