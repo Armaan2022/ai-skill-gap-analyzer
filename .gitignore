@@ -29,7 +29,7 @@ ENV/
 ml/skills/skills_embeddings.npy
 ml/skills/skills_embeddings_meta.json
 ml/training/fine_tuned_model/
-models/
+/models/
 
 # ── Frontend ──────────────────────────────────────────────────────────────────
 frontend/node_modules/
