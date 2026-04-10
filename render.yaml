@@ -2,8 +2,6 @@ services:
   - type: web
     name: ai-skill-gap-backend
     env: docker
-    dockerfilePath: ./backend/Dockerfile
-    dockerContext: .
     plan: free
     envVars:
       - key: DATABASE_URL
