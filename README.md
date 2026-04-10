@@ -14,7 +14,7 @@ An end-to-end NLP application that compares a resume against a job description, 
 
 ---
 
-## Demo
+## Screenshot
 
 ![Skill Gap Analyzer Screenshot](docs/screenshot.png)
 
