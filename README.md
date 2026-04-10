@@ -1,17 +1,16 @@
----
-title: AI Skill Gap Backend
-emoji: 🎯
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
----
-
 # AI Skill Gap Analyzer
 
 ![Tests](https://github.com/Armaan2022/ai-skill-gap-analyzer/actions/workflows/test.yml/badge.svg)
 
 An end-to-end NLP application that compares a resume against a job description, extracts skills from both, and produces a weighted match score with a detailed breakdown of matched, missing, and partially-matched skills.
+
+**Live demo:** [ai-skill-gap-analyzer-sigma.vercel.app](https://ai-skill-gap-analyzer-sigma.vercel.app)
+
+| Service | URL |
+|---|---|
+| Frontend | https://ai-skill-gap-analyzer-sigma.vercel.app |
+| Backend API | https://armaan2022-ai-skill-gap-backend.hf.space |
+| API Docs | https://armaan2022-ai-skill-gap-backend.hf.space/docs |
 
 ---
 
@@ -157,5 +156,3 @@ The skill taxonomy lives in `ml/skills/`:
 
 - **`skills_master.json`** — canonical list of ~370 skills
 - **`skill_meta.json`** — per-skill metadata: category, weight, aliases, related skills
-
-To add new skills, append to `skills_master.json` and add an entry to `skill_meta.json`. Delete `skills_embeddings.npy` to regenerate the embedding cache on next startup.
