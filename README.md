@@ -1,3 +1,12 @@
+---
+title: AI Skill Gap Backend
+emoji: 🎯
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
+
 # AI Skill Gap Analyzer
 
 ![Tests](https://github.com/Armaan2022/ai-skill-gap-analyzer/actions/workflows/test.yml/badge.svg)
