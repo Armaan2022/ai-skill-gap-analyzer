@@ -19,7 +19,7 @@ export async function analyzeSkillGap(
   const res = await fetch(`${BASE}/skill-gap`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ resume_text: resumeText, job_text: jobText }),
+    body: JSON.stringify({ resume_text: resumeText, job_description: jobText }),
   });
   return handleResponse<SkillGapResult>(res);
 }
